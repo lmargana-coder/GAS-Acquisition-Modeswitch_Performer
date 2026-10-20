@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Include Cancelled",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "j3cP5YStcEe0AN2kVkgk7Q",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/j3cP5YStcEe0AN2kVkgk7Q",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-06-23T11:07:23.3120347Z",
+  "Updated": "2026-06-23T11:07:23.3120347Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

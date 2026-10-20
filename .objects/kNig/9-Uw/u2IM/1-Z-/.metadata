@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Filter (Ctrl+Shift+A)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "1-Z-bjwRCEu41Q_jnEz6PA",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/1-Z-bjwRCEu41Q_jnEz6PA",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-08-25T15:30:20.0136831Z",
+  "Updated": "2026-08-25T15:30:20.0136831Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

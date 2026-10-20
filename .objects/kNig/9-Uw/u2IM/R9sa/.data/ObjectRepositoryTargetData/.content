@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="soyG4IFzS0CEqeI8kAJ2zA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1614, 474, 215, 18" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='ConsentSearch' /&gt;&lt;wnd ctrlname='splitter' /&gt;&lt;wnd cls='WindowsForms10.Window.*' title='Panel2' /&gt;&lt;wnd ctrlname='grid' /&gt;&lt;wnd ctrlname='FindControlCore' /&gt;&lt;wnd ctrlname='rootLayout' /&gt;&lt;wnd ctrlname='findLayoutControl' /&gt;&lt;wnd ctrlname='teFind' /&gt;&lt;wnd aaname='Search Box' cls='WindowsForms10.Edit.*' /&gt;" Guid="7b015b71-fcee-4cbe-a965-8c4604ab839e" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='MainForm' /&gt;&lt;wnd ctrlname='MdiWrapper' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0838dc67f4a18b447fd58b5e58234ef4.jpg" xmlns="">0DHxTWprsWka1YQhbjOpnZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

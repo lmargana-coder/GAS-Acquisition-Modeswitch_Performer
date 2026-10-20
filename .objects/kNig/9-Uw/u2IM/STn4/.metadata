@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Settlement and Billing …",
+  "Type": "Element",
+  "Id": "STn43sZ5sUaKytpveel6wA",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/STn43sZ5sUaKytpveel6wA",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-08-25T15:32:48.7845733Z",
+  "Updated": "2026-08-25T15:32:48.7845733Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hMiwHL74o0im86LGypqtoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="95, 191, 144, 21" ElementType="DropDown" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='panelMain' /&gt;&lt;wnd ctrlname='ChangeIntervalUI' /&gt;&lt;wnd ctrlname='layout' /&gt;&lt;wnd ctrlname='dtrNew' /&gt;&lt;wnd cls='WindowsForms10.Edit.*' title='(None)' /&gt;" Guid="95aa5551-0b1b-41bc-97c8-c82a6ef6c5d6" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='NonMdiWrapper' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f740d3d88ec908beaa2b5cb966409135.jpg" xmlns="">0PdLf46_AfkK-wZat7OAphg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

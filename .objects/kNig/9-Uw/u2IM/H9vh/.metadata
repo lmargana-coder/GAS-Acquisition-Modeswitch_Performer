@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Extend Meter Point",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "H9vh4KGXqEO9Cba_sYwHPA",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/H9vh4KGXqEO9Cba_sYwHPA",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-09-04T13:13:46.6117899Z",
+  "Updated": "2026-09-04T13:13:46.6117899Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

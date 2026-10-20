@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uQsmiFJ5CkeTGQGoUqA0hg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="385, 741, 568, 25" ElementType="Cell" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='MdiWrapper' /&gt;&lt;wnd ctrlname='BaseAccountDashboard' /&gt;&lt;wnd ctrlname='mainSplitter' /&gt;&lt;wnd cls='WindowsForms10.Window.*' title='Panel2' /&gt;&lt;wnd ctrlname='tabControl' /&gt;&lt;wnd ctrlname='DashboardProductTab' /&gt;&lt;wnd ctrlname='layout' /&gt;&lt;ctrl name='Data Panel' role='grouping' /&gt;&lt;ctrl name='Node3' role='outline item' /&gt;&lt;ctrl name='name row 3' role='cell' /&gt;" Guid="a3406371-f285-43aa-b530-81bac22bc85e" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='MainForm' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1a5aed9871475886b3f5a147c1160b8c.jpg" xmlns="">0EQG49mdC-0a0sdEuBpf3yQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">FindElements</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

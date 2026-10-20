@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Include Old",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "kMJux_DGXUuGZ6y2e2zpOA",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/kMJux_DGXUuGZ6y2e2zpOA",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-06-23T11:07:06.7433645Z",
+  "Updated": "2026-06-23T11:07:06.7433645Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

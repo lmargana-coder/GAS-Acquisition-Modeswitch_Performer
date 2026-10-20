@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Agreements",
+  "Type": "Element",
+  "Id": "yn5G_HNsbE-WyRzrXhcmwQ",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/yn5G_HNsbE-WyRzrXhcmwQ",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-06-23T11:07:45.2431539Z",
+  "Updated": "2026-06-23T11:07:45.2431539Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

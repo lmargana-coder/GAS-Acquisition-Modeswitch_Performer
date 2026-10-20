@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Products",
+  "Type": "Element",
+  "Id": "oY7-I2PV4E6riVOIGkFzig",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/oY7-I2PV4E6riVOIGkFzig",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-06-23T16:12:16.6710784Z",
+  "Updated": "2026-06-23T16:12:16.6710784Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

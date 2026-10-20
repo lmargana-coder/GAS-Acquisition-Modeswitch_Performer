@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="63D0l6uWz0CLbH3juDmoFg" Reference="oEiCoswlukC6YZWHqUSbyA/hhH6P35F3U6XVecahlX98A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="87, 68, 400, 68" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;wnd ctrlid='65535' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' /&gt;" Guid="7d822255-f76e-4483-b3e4-e07bd58fbe1d" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' cls='#32770' title='Warning' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2441897041c8a97119abe2c281223c54.jpg" xmlns="">0-xwiu9rhAkqF0vqD51rDCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "VAY-Fixed-DoubleGold-Di…(1)",
+  "Type": "Element",
+  "Id": "g2y2lOoNwkmxfdTn02rrcA",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/g2y2lOoNwkmxfdTn02rrcA",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-06-23T11:48:02.5042659Z",
+  "Updated": "2026-06-23T11:48:02.5042659Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

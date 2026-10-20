@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="esXyl-0ujUeVMz6SAfxN-Q" Reference="oEiCoswlukC6YZWHqUSbyA/V-zYFfypfEWjeQWzhmcAtg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="200, 176, 94, 28" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='panelButtons' /&gt;&lt;wnd ctrlname='btnAccept' /&gt;" Guid="654413ce-5bcd-4760-8829-c6b01945cc30" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='NonMdiWrapper' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cfef595e34854f89abeeaabdcdb138d4.jpg" xmlns="">0bMcCiu9U6U2PM5MVEvJMXA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

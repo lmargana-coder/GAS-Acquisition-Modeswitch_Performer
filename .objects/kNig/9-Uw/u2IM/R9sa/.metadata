@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Search Box",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "R9sajHziNEO8eDkZVImCtw",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/R9sajHziNEO8eDkZVImCtw",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-09-03T17:33:37.6308878Z",
+  "Updated": "2026-09-03T17:33:37.6308878Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DCC",
+  "Type": "Element",
+  "Id": "FwD4b1A9REeYOIy3e15KuA",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/FwD4b1A9REeYOIy3e15KuA",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-10-03T21:20:21.8832992Z",
+  "Updated": "2026-10-03T21:20:21.8832992Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

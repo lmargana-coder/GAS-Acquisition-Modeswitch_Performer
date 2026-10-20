@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1ryRrBl8OEqTzoi01QzNVA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="270, 495, 1603, 409" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlname='MdiWrapper' /&gt;&lt;wnd ctrlname='MeterPointDccDashboard' /&gt;&lt;wnd ctrlname='mainSplitter' /&gt;&lt;wnd cls='WindowsForms10.Window.*' title='Panel2' /&gt;&lt;wnd ctrlname='tabControl' /&gt;&lt;wnd ctrlname='paygTab' /&gt;&lt;wnd ctrlname='paygTabControl' /&gt;&lt;wnd ctrlname='paygPanTab' /&gt;&lt;wnd ctrlname='paygPanLayout' /&gt;&lt;wnd ctrlname='grdPaygPan' /&gt;&lt;ctrl name='MainView' role='table' /&gt;&lt;ctrl name='Data Panel' role='client' /&gt;" Guid="46ba9acb-b2ff-4af9-b2b0-e2ab7ba6628c" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='MainForm' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="0b00a8bf37c6adde1267e714d951bff0.jpg" xmlns="">0o3JnC3DCiUSxmy1kqfDYfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

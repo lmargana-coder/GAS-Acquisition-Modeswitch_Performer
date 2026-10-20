@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Open DCC Dashboard",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "HmIyaM2rMEGVLzU4Fa9U_w",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/HmIyaM2rMEGVLzU4Fa9U_w",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-10-03T21:25:09.8572852Z",
+  "Updated": "2026-10-03T21:25:09.8572852Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

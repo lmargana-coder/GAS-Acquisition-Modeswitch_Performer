@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Customer111726 [J100111678] - J20000111778",
+  "Type": "Screen",
+  "Id": "wbi1TZ7ALkm9H6gNYJbl_Q",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/wbi1TZ7ALkm9H6gNYJbl_Q",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/9-UwPQkWIk2k6tjGfUh6Bw",
+  "Created": "2026-06-23T11:36:28.5288062Z",
+  "Updated": "2026-06-23T11:36:28.5288062Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

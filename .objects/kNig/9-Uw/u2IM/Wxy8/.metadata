@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Create new PAN",
+  "Type": "Element",
+  "Id": "Wxy8EmoM8U-B_Rh-MyZPyA",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/Wxy8EmoM8U-B_Rh-MyZPyA",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-10-07T10:11:43.5976306Z",
+  "Updated": "2026-10-07T10:11:43.5976306Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

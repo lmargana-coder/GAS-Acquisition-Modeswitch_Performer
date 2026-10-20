@@ -1,0 +1,6 @@
+{
+  "Name": "GASAcquisitionModeswitch_Performer",
+  "ProjectType": "Process",
+  "Description": "GAS Acquisition Modeswitch Process in Gentrack Application",
+  "MainFile": "Main.xaml"
+}

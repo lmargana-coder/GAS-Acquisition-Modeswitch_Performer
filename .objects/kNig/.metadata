@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Utility Warehouse Limited",
+  "Type": "App",
+  "Id": "kNig8hTv3kydg3hNk-iZ7w",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/kNig8hTv3kydg3hNk-iZ7w",
+  "Created": "2026-06-23T11:07:06.4435349Z",
+  "Updated": "2026-06-23T11:07:06.4435349Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

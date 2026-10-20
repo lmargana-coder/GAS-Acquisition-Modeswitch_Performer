@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Supply Start Date",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "-8Njv3Ud_kaNECTc2gBbeA",
+  "Reference": "oEiCoswlukC6YZWHqUSbyA/-8Njv3Ud_kaNECTc2gBbeA",
+  "ParentRef": "oEiCoswlukC6YZWHqUSbyA/u2IMPnfHbkujgY-LF1WMxA",
+  "Created": "2026-06-30T08:28:07.5092129Z",
+  "Updated": "2026-06-30T08:28:07.5092129Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.30.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

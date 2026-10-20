@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a8BTmDRBGUGkH8qUthA__A" Reference="oEiCoswlukC6YZWHqUSbyA/UPhf1c2_0ECRlWKgZm_u_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="395, 241, 26, 24" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='DCC*' role='page tab list' /&gt;&lt;ctrl name='DCC*' role='page tab' /&gt;&lt;ctrl name='Close' role='push button' /&gt;" Guid="9e13f586-d700-4ebf-b301-5762313e7617" ScopeSelectorArgument="&lt;wnd app='junifer.thor.client.exe' ctrlname='MainForm' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="d29bd296efa475fea860d633f7838e86.jpg" xmlns="">0MQWk_TNUFEuSTffSLloUfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
